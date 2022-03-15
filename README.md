@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm Safal Shrestha from Nepal. 
+- I'm Student of Computer Engineering at NPI.
+- I love coding.
