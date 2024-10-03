@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - I'm Safal Shrestha from Nepal. 
-- I'm Student of Computer Engineering at NPI.
-- I love coding.
+- I'm currently pursuing a B.Tech degree in AI.
